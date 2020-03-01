@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="levelone">Мы очень рады что Вы встали на путь исправления.\nКаждый день Вам нужно съедать несколько вишенок.
+    \ Это снизит возможность подагрального приступа</string>
+    <string name="leveloneEnd">"Не забудьте соблюдать питьевой режим. Не меньше 2-х литров питьевой воды"</string>
+    <string name="leveltwo">Выберите еду, которой можно себя побаловать </string>
+    <string name="levеltwoEnd">"Поздравляем-2 дня без мяса!\n
+        Это уменьшит подагральный приступ"</string>
+    <string name="levelthree"> Мы едим правильно/n</string>
+</resources>

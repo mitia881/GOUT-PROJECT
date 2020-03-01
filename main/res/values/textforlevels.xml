@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl1text0">Ноль</string>
+    <string name="lvl1text1">Один</string>
+    <string name="lvl1text2">Два</string>
+    <string name="lvl1text3">Три</string>
+    <string name="lvl1text4">Четыре</string>
+    <string name="lvl1text5">Пять</string>
+    <string name="lvl1text6">Шесть</string>
+    <string name="lvl1text7">Семь</string>
+    <string name="lvl1text8">Восемь</string>
+    <string name="lvl1text9">Девять</string>
+
+    <string name="secon_schugar">сахар</string>
+    <string name="second_fructoza">фруктоза</string>
+    <string name="second_krivetki">криветки</string>
+    <string name="second_muschrum">грибы</string>
+    <string name="second_not_schugar">заменитель сахара</string>
+    <string name="second_pizza">пицца</string>
+    <string name="second_pucpuc">горох</string>
+    <string name="second_white_wine">белое вино</string>
+    <string name="second_red_wine">красное вино</string>
+    <string name="second_solenja">соленья</string>
+    <string name="second_fisch">рыба</string>
+    <string name="seceond_green">зелень</string>
+    <string name="second_kalmar">кальмар</string>
+    <string name="second_vodka">водка</string>
+    <string name="second_void">пустая тарелка</string>
+
+
+    <string name="lvl0text0">яйца</string>
+    <string name="lvl0text1">фрукты</string>
+    <string name="lvl0text2">сухофрукты</string>
+    <string name="lvl0text3">кефир</string>
+    <string name="lvl0text4">крупа</string>
+    <string name="lvl0text5">молоко</string>
+    <string name="lvl0text6">орехи</string>
+    <string name="lvl0text7">масло</string>
+    <string name="lvl0text8">овощной суп</string>
+    <string name="lvl0text9">шиповник</string>
+    <string name="lvl0text10">курица</string>
+    <string name="lvl0text11">шоколад</string>
+    <string name="lvl0text12">кока-кола</string>
+    <string name="lvl0text13">пончики</string>
+    <string name="lvl0text14">холодец</string>
+    <string name="lvl0text15">торт</string>
+    <string name="lvl0text16">кофе</string>
+    <string name="lvl0text17">сало</string>
+    <string name="lvl0text18">шашлык</string>
+    <string name="lvl0text19">сосиски</string>
+
+    <string name="lvl2text1">I</string>
+    <string name="lvl2text2">II</string>
+    <string name="lvl2text3">III</string>
+    <string name="lvl2text4">IV</string>
+    <string name="lvl2text5">V</string>
+    <string name="lvl2text6">VI</string>
+    <string name="lvl2text7">VII</string>
+    <string name="lvl2text8">VIII</string>
+    <string name="lvl2text9">IX</string>
+    <string name="lvl2text10">X</string>
+</resources>

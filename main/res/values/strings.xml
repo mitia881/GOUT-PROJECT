@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FirstSecond</string>
+    <string name="start">ИГРА</string>
+    <string name="диета">ДИЕТА</string>
+    <string name="back">Назад</string>
+    <string name="level">Уровень:</string>
+    <string name="Level1">Уровень1</string>
+    <string name="textcontinue">Продолжить</string>
+
+    <string name="true_button">ПРАВДА</string>
+    <string name="false_button">ЛОЖЬ</string>
+    <string name="question_australia">Завтрак:Салат из огурцов, хлеб, травяной настой. Перекус:свежеотжатый сок.\nОбед:Щи, биточки из капусты, гречневая каша, хлеб.
+    \nПерекус :морс,хлеб. Ужин:Омлет с молоком, салат из моркови. </string>
+    <string name="question_oceans">Завтрак:Овсяное печенье ,кисель. Перекус:пшенная каша.\nОбед:Суп-пюре из брокколи, вареная рыба нежирных сортов, картофельное пюре.
+    \nПерекус :чернослив. Ужин:Рисовая запеканка, фруктовый салат, сок.</string>
+    <string name="question_mideast">Завтрак: Салат из свежих огурцов, овсянка, шиповниковый отвар. Перекус:пшенная каша.\nОбед:Суп овощной, фаршированные рисом с овощами кабачки, молоко .
+    \nПерекус :сок. Ужин:  Оладьи из творога, капустные шницели, томатный сок.</string>
+    <string name="question_africa">Завтрак:Молочный вермишелевый суп, галетное печенье, чай. Перекус:Пюре из яблока и банана.\nОбед:Постный борщ, пюре из картофеля, вареный хек, винегрет, черничный кисель.
+    \nПерекус :ряженка. Ужин: Творожное суфле, бутерброды с хлебом с отрубями, маслом и сыром (несоленым), чай с лимоном..</string>
+    <string name="question_americas">Завтрак:паровой омлет с кабачками, компот. Перекус:ряженка.\nОбед:Вегетарианский суп, гречневая каша, салат с капустой и морковью.
+    \nПерекус :Овсяное печенье с молоком. Ужин:Картофельное пюре, отварная куриная грудка, сок..</string>
+    <string name="question_asia">Завтрак:Сваренное вкрутую яйцо, перловка, компот. Перекус:Ягодно-творожная масса, морс.\nОбед:Борщ, морковная запеканка, чай с лимоном.
+    \nПерекус :литр водки. Ужин:Рагу из овощей, компот.</string>
+    <string name="correct_toast">ВЕРНО!</string>
+    <string name="incorrect_toast">НЕВЕРНО!</string>
+    <string name="warning_text">Ты уверен что хочеш подсмотреть?</string>
+    <string name="cheat_button">ЧИТЕР!</string>
+    <string name="judgment_toast">Cheating is wrong!</string>
+    <string name="next_button">ВПЕРЕД</string>
+    <string name="prev_button">НАЗАД</string>
+    <string name="show_answer_button">Подсказка</string>
+</resources>
